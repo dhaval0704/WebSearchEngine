@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="hw/task/multithreadcrawler/WSDLCrawler.java|hw/task/multithreadcrawler/WSDLCrawlerThread.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Winter-454 Search Engine/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Winter-454 Search Engine/tika-app-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/Winter-454 Search Engine/commons-cli-1.3.1/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Winter-454 Search Engine/commons-cli-1.3.1/commons-cli-1.3.1-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
